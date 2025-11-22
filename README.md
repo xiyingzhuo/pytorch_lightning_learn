@@ -1,2 +1,2 @@
 # pytorch_lightning_learn
-菜鸟学习
+从头开始学习pytorch_lightning
